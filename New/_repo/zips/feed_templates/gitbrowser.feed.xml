@@ -1,7 +1,7 @@
 <feeds>	
 <feed>
 		<name>OFC Feed</name>
-		<url>https://raw.githubusercontent.com/tvaddonsco/sample-feed-gitbrowser/master/sample_feed.xml</url>
+		<url>https://raw.githubusercontent.com/bitsbb01/Bitsbb01-Repo/main/New/_repo/zips/feed_templates/ofc_feed.xml</url>
 	</feed>
 	<feed>
 		<name>Sample Feed</name>
