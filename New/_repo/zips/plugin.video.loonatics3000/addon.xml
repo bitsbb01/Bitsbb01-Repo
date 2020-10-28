@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.loonatics3000"
+       name="  [COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORmagenta]3[COLORpink]0[COLORyellow]0[COLORkhaki]0[/COLOR]"
+       version="20.9.27"
+       provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR] [COLORwhite]/[/COLOR] [COLORred]Rev[/COLOR] [COLORcrimson]Run[/COLOR][COLORsalmon]ner[/COLOR]">
+  <requires>
+    <import addon="plugin.video.SportsDevil" optional="true" />
+    <import addon="plugin.video.youtube"/>
+    <import addon="script.common.plugin.cache" version="2.5.5"/>
+    <import addon="script.module.beautifulsoup4" version="4.5.3"/>
+    <import addon="script.module.dateutil"/>
+    <import addon="script.module.feedparser"/>
+    <import addon="script.module.futures" version="2.2.0"/>
+    <import addon="script.module.inputstreamhelper"/>
+    <import addon="script.module.python.koding.aio.alt" version="1.1"/>
+    <import addon="script.module.pyxbmct" version="1.1.4"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.resolveurl" version="5.0.00"/>
+    <import addon="script.module.universalscrapers"/>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>audio video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORmagenta]3[COLORpink]0[COLORyellow]0[COLORkhaki]0[/COLOR][COLORwhite] - We do not host any contents streamed[/COLOR]</summary>
+    <description lang="en">[COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORmagenta]3[COLORpink]0[COLORyellow]0[COLORkhaki]0[/COLOR][CR][COLORwhite]This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.[CR]The author does not host any of the content in this addon and takes no responsibility for content found.[/COLOR]</description>
+    <platform>all</platform>
+  </extension>
+</addon>

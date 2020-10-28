@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <addon  id="plugin.video.lu"
+    version="20.10.8"
+    name="   [COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR]"
+    provider-name="[COLORspringgreen]• [COLORpalegreen]Loonatics [COLORspringgreen]•[/COLOR]">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.requests" version="2.19.1" />
+        <import addon="script.module.beautifulsoup4" version="4.5.3"/>
+        <import addon="script.module.metahandler" version="2.9.0" />
+        <import addon="script.module.js2py" />
+        <import addon="script.module.pyjsparser" />
+        <import addon="plugin.video.youtube" version="6.2.0"/>
+        <import addon="script.module.resolveurl" />
+        <import addon="script.module.openscrapers" />
+        <import addon="script.module.addon.signals" version="0.0.3"/>
+        <import addon="context.lu" version="20.6.30" />
+        <import addon="context.lu.trailer" version="20.9.1" />
+        <import addon="script.lu.swift" version="20.10.8" optional="true"/>
+        <import addon="script.lu.tvtap" version="20.6.30" optional="true"/>
+        <import addon="script.lu.livenet" version="20.9.28" optional="true"/>
+        <import addon="script.elementum.burst" version="0.0.49" optional="true"/>
+        <import addon="plugin.video.elementum" version="0.1.58" optional="true"/>
+        <import addon="context.elementum" version="0.0.3" optional="true"/>
+        <import addon="plugin.video.acmeplayer" version="20.6.30" optional="true"/>
+    </requires>
+
+    <extension point="xbmc.python.pluginsource" library="lu.py">
+        <provides>video</provides>
+    </extension>
+
+    <extension point="xbmc.service" library="service.py" start="startup" />
+    <extension point="xbmc.python.module" library="resources/lib/"/>
+
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <reuselanguageinvoker>false</reuselanguageinvoker> <!-- You can enable this if you want, expect some instability but much faster menu speeds -->
+        <summary lang="en">[COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORwhite]Movies-TV Shows-Trakt-IMDB-TMDB[/COLOR]</summary>
+        <description>[COLORspringgreen]Loonatics [COLORpalegreen]Unleashed[/COLOR] [COLORwhite]Movies-TV Shows-Trakt-IMDB-TMDB[/COLOR]</description>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <forum></forum>
+        <website></website>
+        <source></source>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <screenshot>resources/screenshots/screenshot000.png</screenshot>
+            <screenshot>resources/screenshots/screenshot001.png</screenshot>
+            <screenshot>resources/screenshots/screenshot002.png</screenshot>
+            <screenshot>resources/screenshots/screenshot003.png</screenshot>
+            <screenshot>resources/screenshots/screenshot004.png</screenshot>
+        </assets>
+        <news></news>
+    </extension>
+
+</addon>
