@@ -1,0 +1,12 @@
+<?xml version="1.0" ?><addon id="script.mcuphone" name="MCUPhone" provider-name="PostMet Corporation" version="0.3.2">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.mcuphone_pip"/>
+  </requires>
+  <extension library="default.py" point="xbmc.python.script"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>linux</platform>
+    <summary lang="en">Video and audio SIP soft phone</summary>
+    <description lang="en">SIP softphone with MCU features.  i686 and x86_64 platforms only. The scrip.mcuphone_pip would be installed also, for Picture-in-picture incoming call feature.</description>
+  </extension>
+</addon>

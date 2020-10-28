@@ -314,6 +314,58 @@
             <addon_id>plugin.video.cultflix</addon_id>
             <username>bitsbb01</username>
         </addon>
+        <addon>
+            <addon_id>script.medusa.metadata</addon_id>
+            <username>bitsbb01</username>
+        </addon>
+        <addon>
+            <addon_id>script.extendedinfo</addon_id>
+            <username>bitsbb01</username>
+        </addon>
+        <addon>
+            <addon_id>script.arachnid.artwork</addon_id>
+            <username>bitsbb01</username>
+        </addon>
+        <addon>
+            <addon_id>plugin.video.dc</addon_id>
+            <username>bitsbb01</username>
+        </addon>
+        <addon>
+            <addon_id>script.bkr.artwork</addon_id>
+            <username>bitsbb01</username>
+        </addon>
+        <addon>
+            <addon_id>script.neptune.artwork</addon_id>
+            <username>bitsbb01</username>
+        </addon>
+        <addon>
+            <addon_id>script.no-name.artwork</addon_id>
+            <username>bitsbb01</username>
+        </addon>
+        <addon>
+            <addon_id>script.mcuphone</addon_id>
+            <username>bitsbb01</username>
+        </addon>
+        <addon>
+            <addon_id>resource.images.recordlabels.white</addon_id>
+            <username>bitsbb01</username>
+        </addon>
+        <addon>
+            <addon_id>plugin.video.flixnet</addon_id>
+            <username>bitsbb01</username>
+        </addon>
+        <addon>
+            <addon_id>script.module.tulip</addon_id>
+            <username>Twilight0</username>
+        </addon>
+        <addon>
+            <addon_id>repository.ccloud</addon_id>
+            <username>Bane</username>
+        </addon>
+        <addon>
+            <addon_id>script.ccloudmeta</addon_id>
+            <username>darknessally</username>
+        </addon>
     </addons>
     <!--
         Configs is an optional container for a list of config files and destinations.
