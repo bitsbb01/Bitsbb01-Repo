@@ -259,59 +259,59 @@
             <username>bitsbb01</username>
         </addon>
         <addon>
-            <addon_id>plugin.program.ofcwiz</addon_id>
+            <addon_id>resource.images.studios.coloured</addon_id>
             <username>bitsbb01</username>
         </addon>
         <addon>
-            <addon_id>plugin.program.ofcwiz</addon_id>
+            <addon_id>plugin.video.j1tv</addon_id>
             <username>bitsbb01</username>
         </addon>
         <addon>
-            <addon_id>plugin.program.ofcwiz</addon_id>
+            <addon_id>resource.images.studios.white</addon_id>
             <username>bitsbb01</username>
         </addon>
         <addon>
-            <addon_id>plugin.program.ofcwiz</addon_id>
+            <addon_id>script.medusa.artwork</addon_id>
             <username>bitsbb01</username>
         </addon>
         <addon>
-            <addon_id>plugin.program.ofcwiz</addon_id>
+            <addon_id>script.flixnet.metadata</addon_id>
             <username>bitsbb01</username>
         </addon>
         <addon>
-            <addon_id>plugin.program.ofcwiz</addon_id>
+            <addon_id>script.no-name.metadata</addon_id>
             <username>bitsbb01</username>
         </addon>
         <addon>
-            <addon_id>plugin.program.ofcwiz</addon_id>
+            <addon_id>script.tempest.metadata</addon_id>
             <username>bitsbb01</username>
         </addon>
         <addon>
-            <addon_id>plugin.program.ofcwiz</addon_id>
+            <addon_id>script.covenant.metadata</addon_id>
             <username>bitsbb01</username>
         </addon>
         <addon>
-            <addon_id>plugin.program.ofcwiz</addon_id>
+            <addon_id>script.fanfilm.metadata</addon_id>
             <username>bitsbb01</username>
         </addon>
         <addon>
-            <addon_id>plugin.program.ofcwiz</addon_id>
+            <addon_id>script.exodus.metadata</addon_id>
             <username>bitsbb01</username>
         </addon>
         <addon>
-            <addon_id>plugin.program.ofcwiz</addon_id>
+            <addon_id>script.neptune.metadata</addon_id>
             <username>bitsbb01</username>
         </addon>
         <addon>
-            <addon_id>plugin.program.ofcwiz</addon_id>
+            <addon_id>script.numbersbynumbers.metadata</addon_id>
             <username>bitsbb01</username>
         </addon>
         <addon>
-            <addon_id>plugin.program.ofcwiz</addon_id>
+            <addon_id>script.mtb.vr8fg8b.artwork</addon_id>
             <username>bitsbb01</username>
         </addon>
         <addon>
-            <addon_id>plugin.program.ofcwiz</addon_id>
+            <addon_id>plugin.video.cultflix</addon_id>
             <username>bitsbb01</username>
         </addon>
     </addons>
