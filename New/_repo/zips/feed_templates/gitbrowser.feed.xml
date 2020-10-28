@@ -1,0 +1,10 @@
+<feeds>	
+<feed>
+		<name>OFC Feed</name>
+		<url>https://raw.githubusercontent.com/tvaddonsco/sample-feed-gitbrowser/master/sample_feed.xml</url>
+	</feed>
+	<feed>
+		<name>Sample Feed</name>
+		<url>https://raw.githubusercontent.com/tvaddonsco/sample-feed-gitbrowser/master/sample_feed.xml</url>
+	</feed>
+</feeds>
